@@ -26,15 +26,15 @@ Normally, when wired earphones are connected, Android switches both the audio ou
 ### 1. Clone the Repository:
 ```bash
 git clone https://github.com/ldmoti/Phonymic.git
+```
 
-
-2. Open in Android Studio:
+### 2. Open in Android Studio:
 Open the project in Android Studio.
-3. Enable the Service:
+### 3. Enable the Service:
 Build and install the app on your Android device.
 Go to your device’s Settings -> Accessibility -> Installed services.
 Find "Phonymic" and enable the service.
-4. Test:
+### 4. Test:
 Connect your wired earphones to the device.
 Make a call, record audio, or use any app that utilizes the microphone.
 Use Logcat in Android Studio to monitor messages from the service to verify if it detects earphone connections and attempts to switch the audio input.
