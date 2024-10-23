@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Phonymic</string>
+    <string name="phonymic_service_description">Phonymic enables you to use your phones microphone while using wired earphones.</string>
+</resources>
