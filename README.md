@@ -1,8 +1,6 @@
 # Phonymic: Use Your Phone's Mic with Wired Earphones (Experimental)
 
-**Important:** This is an experimental project and may not work reliably on all Android devices due to system limitations.
-
-## Overview
+## Description
 
 Phonymic is an Android accessibility service designed to enable the use of your phone's built-in microphone while wired earphones are plugged in.
 
@@ -40,6 +38,8 @@ Make a call, record audio, or use any app that utilizes the microphone.
 Use Logcat in Android Studio to monitor messages from the service to verify if it detects earphone connections and attempts to switch the audio input.
 Contributing
 Contributions are welcome! If you have ideas for improvements, bug fixes, or want to expand device compatibility, feel free to open an issue or submit a pull request.
+
+**Important:** This is an experimental project and may not work reliably on all Android devices due to system limitations.
 
 ## License
 
